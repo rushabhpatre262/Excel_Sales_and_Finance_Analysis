@@ -20,19 +20,19 @@ Atliq Hardware needs detailed sales and financial reports to optimize performanc
 
 ### Objective
 
-  1. **Profit and Loss(P&L) Report for markets :** Performance breakdown according to the market
-  2. **Gross Margin % Report by Quarters :** Financial Performance trends according to the quarters
-  3. **Profit and Loss(P&L) Report for Fiscal Year :** Financial Performance comparison using fiscal year
-  4. **Profit and Loss(P&L) Report for Months :** Financial Performance trends according to the quarters
+  1. **Profit and Loss(P&L) Report for markets :** Performance breakdown according to the market.
+  2. **Gross Margin % Report by Quarters :** Financial Performance trends according to the quarters.
+  3. **Profit and Loss(P&L) Report for Fiscal Year :** Financial Performance comparison using fiscal year.
+  4. **Profit and Loss(P&L) Report for Months :** Financial Performance trends according to the quarters.
 
 
 ## Technical Skills:
 
 - Understanding of Excel.
-- Use of Power Query for Data Cleaning and Tranforming the data
+- Use of Power Query for Data Cleaning and Tranforming the data.
 - Pivot Table for Data Summarization.
 - Establishing data model relationships with Power Pivot.
 - Utilizing DAX to create calculated columns.
-- Use of Conditional Formatting to highlight trends and patterns
+- Use of Conditional Formatting to highlight trends and patterns.
 
 
