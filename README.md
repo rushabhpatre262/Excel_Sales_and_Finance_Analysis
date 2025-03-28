@@ -12,18 +12,18 @@ Atliq Hardware needs detailed sales and financial reports to optimize performanc
 
 ### Objective
 
-  1. **Customer Performance Report :** Overview of revenue generated from each customers and yearly comparison of that.
-  2. **Market Performance vs Target :** Analysis of sales efforts against goals and market conditions.
+  1. [**Customer Performance Report :**](https://github.com/rushabhpatre262/Excel_Sales_and_Finance_Analysis/blob/main/Customer%20Performance%20Report.pdf) Overview of revenue generated from each customers and yearly comparison of that.
+  2. [**Market Performance vs Target :**](https://github.com/rushabhpatre262/Excel_Sales_and_Finance_Analysis/blob/main/Market%20Performance%20vs%20Target.pdf) Analysis of sales efforts against goals and market conditions.
 
 
 ## Finance Analysis   Report :
 
 ### Objective
 
-  1. **Profit and Loss(P&L) Report for markets :** Performance breakdown according to the market.
-  2. **Gross Margin % Report by Quarters :** Financial Performance trends according to the quarters.
-  3. **Profit and Loss(P&L) Report for Fiscal Year :** Financial Performance comparison using fiscal year.
-  4. **Profit and Loss(P&L) Report for Months :** Financial Performance trends according to the quarters.
+  1. [**Profit and Loss(P&L) Report for markets :**](https://github.com/rushabhpatre262/Excel_Sales_and_Finance_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf) Performance breakdown according to the market.
+  2. [**Gross Margin % Report by Quarters :**](https://github.com/rushabhpatre262/Excel_Sales_and_Finance_Analysis/blob/main/Gross%20Margin%20%25%20by%20Quarters.pdf) Financial Performance trends according to the quarters.
+  3. [**Profit and Loss(P&L) Report for Fiscal Year :**](https://github.com/rushabhpatre262/Excel_Sales_and_Finance_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) Financial Performance comparison using fiscal year.
+  4. [**Profit and Loss(P&L) Report for Months :**](https://github.com/rushabhpatre262/Excel_Sales_and_Finance_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf) Financial Performance trends according to the quarters.
 
 
 ## Technical Skills:
